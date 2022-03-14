@@ -4,7 +4,7 @@
  
  CV
  --------------
- God til HTML
- God til CSS
- God til det tekniske
- knap så god til JS
+ - God til HTML
+ - God til CSS
+ - God til det tekniske
+ - knap så god til JS
